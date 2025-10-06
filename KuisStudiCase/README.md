@@ -2,5 +2,5 @@
 ## KUIZ TENGAH SEMESTER
 
 ### STUDI CASE 1: PENDATAAN MAHASIGMA FASILKOM
-![Studi Kasus 1](StudiCase1)\
-![foto studi kasus 1](StudiCase1/StudiCase1.png)
+[Studi Kasus 1](StudiCase1)\
+[foto studi kasus 1](StudiCase1/StudiCase1.png)
