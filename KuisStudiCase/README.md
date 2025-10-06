@@ -1,6 +1,6 @@
 # FILE UNTUK STUDI KASUS DAN SOAL DARI STUDI CASE BP 1
 ## KUIZ TENGAH SEMESTER
 
-## STUDI CASE 1: PENDATAAN MAHASIGMA FASILKOM
-[Studi Kasus 1](StudiCase1)
-[foto studi kasus 1](StudiCase1/StudiCase1.png)
+### STUDI CASE 1: PENDATAAN MAHASIGMA FASILKOM
+![Studi Kasus 1](StudiCase1)\
+![foto studi kasus 1](StudiCase1/StudiCase1.png)
