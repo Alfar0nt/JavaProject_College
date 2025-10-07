@@ -1,6 +1,6 @@
 # FILE UNTUK STUDI KASUS DAN SOAL DARI STUDI CASE BP 1
 ## KUIZ TENGAH SEMESTER
-Dibuat sebagai tugas tengah semester Mata Kuliah Bahasa Pemrograman 1.\
+Dibuat sebagai tugas tengah semester Mata Kuliah Bahasa Pemrograman 1.
 
-### [STUDI KASUS 1: PENDATAAN MAHASIGMA FASILKOM](StudiCase1)\
+### [STUDI KASUS 1: PENDATAAN MAHASIGMA FASILKOM](StudiCase1)
 ### [STUDI KASUS 2: ATM TARIK TUNAI](StudiCase2)
