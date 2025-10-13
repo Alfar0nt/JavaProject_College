@@ -2,10 +2,10 @@
 ## Program yang akan menampilkan bunga 4% - 7% selama 10 tahun
 
 ## Kode:
-![[Pasted image 20251013092219.png]]
+![Kodingan](codingan.png)
 
 ## Output
-![[Pasted image 20251013092127.png]]
+![Output](output.png)
 ## Penjelasan Code
 ```
 public class KuisStudiCase.StudiCase3 {
