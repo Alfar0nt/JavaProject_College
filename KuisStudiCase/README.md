@@ -4,3 +4,4 @@ Dibuat sebagai tugas tengah semester Mata Kuliah Bahasa Pemrograman 1.
 
 ### [STUDI KASUS 1: PENDATAAN MAHASIGMA FASILKOM](StudiCase1)
 ### [STUDI KASUS 2: ATM TARIK TUNAI](StudiCase2)
+### [STUDI KASUS 3 (UTS): MENAMPILKAN BUNGA TAHUNAN DALAM 10 TAHUN](StudiCase3)
