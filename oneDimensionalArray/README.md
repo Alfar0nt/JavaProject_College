@@ -14,3 +14,7 @@
 	  numberArray[1] = 20:
 ```
 	- numberArray2[] = (10,20); // assigned directly
+
+## Tugas Pertemuan 9
+Membuat program Java yang menerima 5 nilai dari pengguna, kemudian mencari dan menampilkan nilai tertinggi dan nilai terendah. \
+[tugas9](tugasPertemuan9.png)
