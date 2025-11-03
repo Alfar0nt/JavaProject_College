@@ -7,7 +7,7 @@ public class tugasPertemuan9 {
         Scanner input = new Scanner(System.in);
         int[] nilai = new int[5]; // untuk menyimpan 5 nilai input
 
-        // Input nilai dari pengguna
+        // input nilai
         for (int i = 0; i < nilai.length; i++) {
             System.out.print("Nilai-" + (i + 1) + " : ");
             nilai[i] = input.nextInt();
@@ -16,17 +16,18 @@ public class tugasPertemuan9 {
         int tertinggi = nilai[0];
         int terendah = nilai[0];
 
-        // Proses mencari nilai tertinggi dan terendah
+        // ngebandingin nilai tertinggi dan terendah, abis itu nyari yang tertinggi dan terendah
         for (int i = 1; i < nilai.length; i++) {
-            if (nilai[i] > tertinggi) {
+            if (nilai[i] > tertinggi)
                 tertinggi = nilai[i];
+ {
             }
             if (nilai[i] < terendah) {
                 terendah = nilai[i];
             }
         }
 
-        // Output hasil
+        // hasil
         System.out.println("Nilai tertinggi = " + tertinggi);
         System.out.println("Nilai terendah = " + terendah);
         
