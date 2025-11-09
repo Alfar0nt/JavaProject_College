@@ -1,4 +1,4 @@
-package oneDimensionalArray.multiDimensionalArray;
+package allAboutArray.multiDimensionalArray;
 
 public class twoDimensionalArray {
     public static void main(String[] args) {

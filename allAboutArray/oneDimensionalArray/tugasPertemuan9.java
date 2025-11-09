@@ -1,4 +1,4 @@
-package oneDimensionalArray;
+package allAboutArray.oneDimensionalArray;
 
 import java.util.Scanner;
 
