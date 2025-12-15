@@ -1,3 +1,10 @@
+/* PROJEK AKHIR TAHUN EAS BAHASA PEMROGRAMMAN KELAS A  - KELOMPOK 8
+DOSEN PENGAMPU: BAPAK NAMBI SEMBILU
+ANGGOTA KELOMPOK:   BERNARDINUS FARREL  - 026
+                    RAVANELO AKHTAR - 030
+                    FARIL AKMAL AUFA - 039
+                    RYAN SAPUTRA SETYO IBRAHIM - 028
+                    DHIAURRHMAN RABBANI HARIANTO - 042 */
 public class Main {
     public static void main(String[] args) {
         Logic.loadData();
