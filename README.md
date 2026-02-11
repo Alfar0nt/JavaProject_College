@@ -1,5 +1,6 @@
 # Java Project College
-[Banner Image](/JavaProject_College/banner-image.jpg)
+<img src="banner-image.jpg" alt="Banner Image"/>
+
 My Personal Java Project in College, mainly in Bahasa Pemrograman Lecture, and also just a repo for my Java learning, may includes some of small or just a learning project. Nothing specials. Each Semester has their own Folders and files.
 
 [Semester 1](/JavaProject_College/FirstSemester/)
