@@ -1,4 +1,4 @@
-package KuisStudiCase.StudiCase1;
+package FirstSemester.KuisStudiCase.StudiCase1;
 import java.util.Scanner;
 
 public class AplikasiDataMahasiswaFasilkom {

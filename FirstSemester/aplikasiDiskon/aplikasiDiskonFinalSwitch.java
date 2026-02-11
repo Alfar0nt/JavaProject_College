@@ -1,3 +1,4 @@
+package FirstSemester.aplikasiDiskon;
 import java.util.Scanner;
 public class aplikasiDiskonFinalSwitch {
     public static void main(String[] args) throws Exception {

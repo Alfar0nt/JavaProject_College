@@ -1,7 +1,8 @@
-package allAboutArray;
+package FirstSemester.allAboutArray;
 
 public class bubleSorting {
     public static void main(String[] args) {
+/*      Masih ada error, ntar be di perbaikin   
         int n = arr.length;
         for (int i = 0; i < n - 1; i++) {
         // Track if any swaps are made in this pass
@@ -22,5 +23,6 @@ public class bubleSorting {
         break;
         }
     }
+}*/
 }
 }

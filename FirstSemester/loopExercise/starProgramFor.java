@@ -1,4 +1,4 @@
-package loopExercise;
+package FirstSemester.loopExercise;
 
 public class starProgramFor {
     public static void main(String[] args) {

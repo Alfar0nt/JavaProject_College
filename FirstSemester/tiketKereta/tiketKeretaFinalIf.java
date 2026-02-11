@@ -1,3 +1,4 @@
+package FirstSemester.tiketKereta;
 import java.util.Scanner;
 public class tiketKeretaFinalIf {
     public static void main(String[] args) throws Exception {

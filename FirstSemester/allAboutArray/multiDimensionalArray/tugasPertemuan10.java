@@ -1,4 +1,4 @@
-package allAboutArray.multiDimensionalArray;
+package FirstSemester.allAboutArray.multiDimensionalArray;
 
 public class tugasPertemuan10 {
     public static void main(String[] args) {

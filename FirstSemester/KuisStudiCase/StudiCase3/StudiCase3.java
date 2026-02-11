@@ -1,4 +1,4 @@
-package KuisStudiCase.StudiCase3;
+package FirstSemester.KuisStudiCase.StudiCase3;
 import java.text.DecimalFormat;
 
 public class StudiCase3 {

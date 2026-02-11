@@ -1,4 +1,4 @@
-package allAboutArray.oneDimensionalArray;
+package FirstSemester.allAboutArray.oneDimensionalArray;
 
 public class Pertemuan9 {
         public static void main(String[] args) throws Exception {

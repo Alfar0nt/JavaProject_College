@@ -1,4 +1,4 @@
-package allAboutArray.oneDimensionalArray;
+package FirstSemester.allAboutArray.oneDimensionalArray;
 
 import java.util.Scanner;
 

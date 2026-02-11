@@ -1,4 +1,4 @@
-package KuisStudiCase.StudiCase2;
+package FirstSemester.KuisStudiCase.StudiCase2;
 
 import java.util.Scanner;
 

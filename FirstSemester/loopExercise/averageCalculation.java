@@ -1,4 +1,4 @@
-package loopExercise;
+package FirstSemester.loopExercise;
 import java.util.Scanner;
 
 public class averageCalculation {

@@ -1,4 +1,4 @@
-package hitungGaji;
+package FirstSemester.hitungGaji;
 
 import java.util.Scanner;
 
