@@ -1,12 +1,12 @@
 # Java Project College
 <img src="banner-image.jpg" alt="Banner Image"/>
 
-My Personal Java Project in College, mainly in Bahasa Pemrograman Lecture, and also just a repo for my Java learning, may includes some of small or just a learning project. Nothing specials. Each Semester has their own Folders and files.
+My Personal Java Project in College, mainly in Bahasa Pemrograman Lecture, and also just a repo for my Java learning, may includes some of small or just a learning project. Nothing specials. Each Semester has their own Folders and files.\
 
 [Semester 1](/JavaProject_College/FirstSemester/)
-<img src="sem1.jpg" alt="Banner Image Semester 1"/>
-Di semester 1 ini, materi yang dipelajari adalah Array (one-dimensional dan multi dimensional), Tipe Data, Linear Programming, Sorting, Looping, Branching.
+<img src="sem1.jpg" alt="Banner Image Semester 1"/> \
+Di semester 1 ini, materi yang dipelajari adalah Array (one-dimensional dan multi dimensional), Tipe Data, Linear Programming, Sorting, Looping, Branching.\
 
 [Semester 2](/JavaProject_College/SecondSemester/)
-<img src="sem2.jpg" alt="Banner Image Semester 2"/>
+<img src="sem2.jpg" alt="Banner Image Semester 2"/> \
 Di semester 2, yang dipelajari adalah Object Oriented Programming (OOP),
