@@ -1,2 +1,8 @@
 # JavaProject_College
-My Personal Java Project in College, and also just a repo for my Java learning, may includes some of small or just a learning project. Nothing specials.
+My Personal Java Project in College, mainly in Bahasa Pemrograman Lecture, and also just a repo for my Java learning, may includes some of small or just a learning project. Nothing specials. Each Semester has their own Folders and files.
+
+[Semester 1](/JavaProject_College/1st%20Semester/)
+Di semester 1 ini, materi yang dipelajari adalah Array (one-dimensional dan multi dimensional), Tipe Data, Linear Programming, Sorting, Looping, Branching.
+
+[Semester 2](/JavaProject_College/2nd%20Semester/)
+Di semester 2, yang dipelajari adalah Object Oriented Programming (OOP),
