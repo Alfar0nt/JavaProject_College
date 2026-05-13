@@ -9,11 +9,11 @@ public class appStack {
         do {
             System.out.println("Stack");
             System.out.println("1. Push\n2. Pop\n3. Show\n4. Exit");
-            System.out.println("Choice: ");
+            System.out.print("Choice: ");
             choice=sc.nextInt();
             switch (choice) {
                 case 1:
-                    System.out.println("Task To Do = ");
+                    System.out.print("Task To Do = ");
                     String task=sc.next();
                     node = new Node();
                     node.setTugas(task);
